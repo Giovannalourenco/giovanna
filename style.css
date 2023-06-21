@@ -33,3 +33,22 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.produtos-div-conteudo{
+    background-color: #890042;
+    color: #FF98C9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+.novosprodutos-div-conteudo{
+    background-color: #890042;
+    color: #FF98C9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+
+
